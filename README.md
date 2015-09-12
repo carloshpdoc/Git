@@ -1,9 +1,7 @@
 
 #**Projeto da Aula Git, CodeEducation**
-===================================
 
-Criar um arquivo, inserir os principais passos para o push do mesmo e coloca-lo no github
------------------------------------------------------------------------------------------
+####Criar um arquivo, inserir os principais passos para o push do mesmo e coloca-lo no github
 
 *1.`touch README`
 *2.`git add .`
