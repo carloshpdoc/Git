@@ -1,5 +1,5 @@
 
-#**Projeto da Aula Git, CodeEducation**
+#**Projeto Git**
 
 ####Criar um arquivo, inserir os principais passos para o push do mesmo e coloca-lo no github
 
